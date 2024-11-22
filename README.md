@@ -9,8 +9,7 @@ To Verify the Functionality using Test Bench.
 # Tool Required:
 
 Functional Simulation: Incisive Simulator (ncvlog, ncelab, ncsim)
-###
-alu_32bit.v
+### alu_32bit.v
 ```
 module alu_32bit_case(y,a,b,f);
 input [31:0]a;
